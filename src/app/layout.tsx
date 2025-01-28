@@ -17,6 +17,9 @@ const geistMono = localFont({
 export const metadata: Metadata = {
   title: "Arsclr Portofolio",
   description: "tiara suci clarissa",
+  icons:{
+    icon:"/logo.png"
+  }
 };
 
 export default function RootLayout({
